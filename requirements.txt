@@ -20,7 +20,7 @@ cymem==2.0.2
 Cython==0.29.13
 decorator==4.4.0
 defusedxml==0.5.0
-Django==2.0.4
+Django==2.2.10
 djangorestframework==3.10.3
 elephas==0.4.2
 entrypoints==0.3
