@@ -111,7 +111,7 @@ sklearn==0.0
 spacy==2.1.0
 srsly==0.0.5
 tensorboard==1.14.0
-tensorflow==1.14.0
+tensorflow==2.6.4
 tensorflow-estimator==1.14.0
 tensorflow-gpu==1.14.0
 termcolor==1.1.0
