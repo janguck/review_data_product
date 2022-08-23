@@ -65,7 +65,7 @@ matplotlib==3.0.3
 mistune==0.8.4
 mmh3==2.5.1
 murmurhash==1.0.2
-nbconvert==5.4.1
+nbconvert==6.5.1
 nbformat==4.4.0
 networkx==2.3
 nltk==3.4.5
